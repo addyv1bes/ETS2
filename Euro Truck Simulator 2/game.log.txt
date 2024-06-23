@@ -1,0 +1,1274 @@
+************ : log created on : Monday June 17 2024 @ 19:08:05
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0.22631)
+00:00:00.000 : [sys] Command line:  D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe -rdevice dx11
+00:00:00.000 : [cpu] CPU0: AuthenticAMD [AMD Ryzen 5 5500                               ] with 6 cores (12 threads) at ~3600MHz.
+00:00:00.000 : [sys] using 4 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 3 real-time worker threads.
+00:00:00.000 : [sys] using QPC / HPET timer, frequency 10000000Hz
+00:00:00.000 : [mem] physical total: 16170M
+00:00:00.000 : [mem] physical avail: 6384M
+00:00:00.000 : [mem] virtual total: 134217727M
+00:00:00.000 : [mem] virtual avail: 134212727M
+00:00:00.000 : [mem] Trying to allocate memory pool (6291456K)
+00:00:00.000 : [mem] Allocated 128 MBs for temporary loading buffers
+00:00:00.023 : [xinput] Using XInput version 1.4.0
+00:00:00.058 : [hashfs] version.scs: Created and validated, 2 entries (98213266E72219CF0AEF8E4AA13511C720215A57E9292767099919429F976265)
+00:00:00.059 : [hashfs] version.scs: Unmounted.
+00:00:00.059 : [ufs] Loaded pack set version 1.50.2.3 created at 1717075923
+00:00:00.076 : [hashfs] effect.scs: Created and validated, 22867 entries (30A2EE5626FE07F7CC3F5E9B83771B68B27D062D6137E38A9ADB60630E2AAC95)
+00:00:00.077 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/effect.scs mounted.
+00:00:00.251 : [hashfs] base.scs: Created and validated, 124139 entries (574B0B1D6C9A40A1E1E34A57945A6664B13DE81301272489BF9F3EA2F84656F9)
+00:00:00.251 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/base.scs mounted.
+00:00:00.288 : [hashfs] base_map.scs: Created and validated, 1886 entries (B748FB0CD8B51FE7E99A6FD272F068B6D4CC2882E4D1854F5AA0089A868ABA00)
+00:00:00.288 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/base_map.scs mounted.
+00:00:00.402 : [hashfs] base_vehicle.scs: Created and validated, 43021 entries (D8B20F1F63B1756C0B35A3208F8578C97B224332DFC0484AF8C7C5FFBB0ADC52)
+00:00:00.402 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/base_vehicle.scs mounted.
+00:00:00.424 : [hashfs] base_share.scs: Created and validated, 22980 entries (B162D24D36EACE3120875512916E385E43839641ADD1B7322455AFF63EA7A87C)
+00:00:00.424 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/base_share.scs mounted.
+00:00:00.998 : [hashfs] def.scs: Created and validated, 45566 entries (F61E4E7D992A2CF8E3579165C3973D9722CAA4A23E4BCD11F40685A3C4B16AE5)
+00:00:00.999 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/def.scs mounted.
+00:00:01.003 : [hashfs] core.scs: Created and validated, 9 entries (E25CE6440919D27C3BEA1E8B0889F0522F580FF56DD34896925B68B8236BD2BF)
+00:00:01.004 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/core.scs mounted.
+00:00:01.042 : [hashfs] locale.scs: Created and validated, 265 entries (02822913F82AAE45A60AB6433860A51CAC4A18F4534D86E88D6C76546FC8AA10)
+00:00:01.042 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/locale.scs mounted.
+00:00:01.047 : [hashfs] base_cfg.scs: Created and validated, 1 entries (A37DC045D3E6AB5951868DEE0473DDD828DD6C154518583B683765ED52EEB6CE)
+00:00:01.047 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/base_cfg.scs mounted.
+00:00:01.047 : [ufs] Home directory: 'C:/Users/corvu/OneDrive/Documents/Euro Truck Simulator 2'.
+00:00:01.048 : [fs] device C:/Users/corvu/OneDrive/Documents/Euro Truck Simulator 2 mounted.
+00:00:01.190 : [hashfs] dlc_actros_tuning.scs: Created and validated, 2278 entries (0009595B2A4E3449C3181DE3A8789D81E6C768C44462B9E756CF4FD7EFEB28D8)
+00:00:01.282 : [hashfs] dlc_christmas.scs: Created and validated, 2601 entries (7BCDBA76E748E90AEAA593F9806FC0F88C7668B34F11F1D0E5BCB81FD7EB461B)
+00:00:01.378 : [hashfs] dlc_daf_2021.scs: Created and validated, 2081 entries (D62FB6F03C04377C94AB27AF173F19ED6F6EE1D6415315BCD12D07BEA582B709)
+00:00:01.437 : [hashfs] dlc_daf_tuning_pack.scs: Created and validated, 2175 entries (4A4CA84AE52BA0E8E95EF3D7423AE11E6EB61D8F899D299D495D274DE03AEABF)
+00:00:01.564 : [hashfs] dlc_daf_xd.scs: Created and validated, 2101 entries (76B987C67AE19B5F7DC112A4C445F6FC120620104DAC44AE495967AA6D384B93)
+00:00:01.618 : [hashfs] dlc_dragon.scs: Created and validated, 599 entries (E66256EEF9AB85C4DD3D78201A646D8E1CEFD93F97365D6ACF1A74297F6DCD92)
+00:00:01.660 : [hashfs] dlc_east.scs: Created and validated, 919 entries (835912FE2A4F632E8B0E6FBAB1B4C4D2AB647526BB8EEBD9F2E924F0E6E88DF7)
+00:00:01.719 : [hashfs] dlc_fantasy.scs: Created and validated, 1352 entries (FD8866CAEA3B0BAF063C84E50778DB1063D8CE1526632C5C8FA1E0ADCB0AD687)
+00:00:01.791 : [hashfs] dlc_feldbinder.scs: Created and validated, 5524 entries (74D7769677F14E65F72BF1830904391CD8D10AB3E2506348D79E1F66DE16C8FA)
+00:00:01.814 : [hashfs] dlc_flags_at.scs: Created and validated, 887 entries (5588BC2EF15FEEE687C0DC89901E1A56563F0E2F6CA44FC429BD282491A97359)
+00:00:01.868 : [hashfs] dlc_flags_aus.scs: Created and validated, 1000 entries (E9E2E17B95D4B1455E55AC3C4C6A32F5A72128621EB281C1485C2D0A8DDFCFA3)
+00:00:01.910 : [hashfs] dlc_flags_be.scs: Created and validated, 1084 entries (0F1819B60EE0A6A680F972D287BA78D086E1C30A5A022CDF90C174197CEE5BB9)
+00:00:01.939 : [hashfs] dlc_flags_bg.scs: Created and validated, 989 entries (B1B3C0CF03644597F72B0B7E6CA9DC22E8DDFB46764767E8950A5412BA642027)
+00:00:01.966 : [hashfs] dlc_flags_bz.scs: Created and validated, 894 entries (9B9ACCFEE7D93FFCBF05119DBC580B71B9F2218F75D3A5144EC6EE08904DB6FC)
+00:00:02.021 : [hashfs] dlc_flags_ca.scs: Created and validated, 906 entries (149766F98BF292F9451A1568E9F27B5DA7112DBEB5379F52369E3570F6EFC859)
+00:00:02.072 : [hashfs] dlc_flags_ch.scs: Created and validated, 806 entries (5F932B3557753A6C4E4578430D077150DB37F61741F946405341407FCEC3F552)
+00:00:02.120 : [hashfs] dlc_flags_cn.scs: Created and validated, 840 entries (8C2F4887C9D1F236F7F5F97E3E1FBBB2D990A4171AE0405AC031141A23E30750)
+00:00:02.147 : [hashfs] dlc_flags_cz.scs: Created and validated, 904 entries (BC42F8F763515CB9236ABDFB90FCB9641000E8B99F3AB5035CF7D179F550B96A)
+00:00:02.200 : [hashfs] dlc_flags_de.scs: Created and validated, 869 entries (78AFE826E0C0AE12F999DE0103CACCF018EF5510FA723825BBEB910A2905B900)
+00:00:02.242 : [hashfs] dlc_flags_dk.scs: Created and validated, 868 entries (904473ACFDD7065E5D6672B5A75FA91C163C0363E651251DCC469E480E56F783)
+00:00:02.299 : [hashfs] dlc_flags_ee.scs: Created and validated, 1290 entries (E03F42A01169CE70F96E8BE307D040EFC38D8D3023CAAF5DCAF652DFC7E0FA8D)
+00:00:02.341 : [hashfs] dlc_flags_es.scs: Created and validated, 1300 entries (A01F1E4B10A99FC591D6CC512F350B36DEA5D8896E7297385EC9786B775C5907)
+00:00:02.395 : [hashfs] dlc_flags_fi.scs: Created and validated, 819 entries (B6259108CE4825C14955EBE3A4E6A6F72905D930D5F2F2364BC744AC24516BA9)
+00:00:02.434 : [hashfs] dlc_flags_fr.scs: Created and validated, 895 entries (D2D7AED2420EA94180116742A4A3B683CC55AF94CB1B92D4ED14D9D71C426C42)
+00:00:02.473 : [hashfs] dlc_flags_hu.scs: Created and validated, 1050 entries (6B5531A4013B064E7C7B9F4199DDF05297615CAC73F034DFD471354E5BE210BC)
+00:00:02.513 : [hashfs] dlc_flags_ie.scs: Created and validated, 984 entries (DC90C201E46725D1D7BABF233E2525514780C4779482CFFF38AF1A201F543DB5)
+00:00:02.541 : [hashfs] dlc_flags_it.scs: Created and validated, 852 entries (279C5700EB976433BB8671720F451D4D89EC32AA43B8AF04316820791B132071)
+00:00:02.582 : [hashfs] dlc_flags_jp.scs: Created and validated, 902 entries (08786158D37FB94D60E86CCA082758FC9C0EE4315BDE9917A3774AF997FBD169)
+00:00:02.606 : [hashfs] dlc_flags_kr.scs: Created and validated, 1015 entries (088B6EBD19917A556062A6B968EF3537436DCE93DE97D37645C734AF37E78AF6)
+00:00:02.632 : [hashfs] dlc_flags_lt.scs: Created and validated, 1005 entries (64B327861D50F93287CC342E3108A429B01AE907429A024C5F1088C1CF56AB48)
+00:00:02.677 : [hashfs] dlc_flags_lv.scs: Created and validated, 959 entries (8B46ECDFB4BFB21FA7D7771F2DA2D69D7C29C71EA05C7682955F8EB05D4BC419)
+00:00:02.695 : [hashfs] dlc_flags_n.scs: Created and validated, 868 entries (18D7666017DDC29F9BE730F41D6E02AB70C4E0849C5118A9A456E702A91E4B24)
+00:00:02.715 : [hashfs] dlc_flags_nl.scs: Created and validated, 1036 entries (20EAC92590D91477B93764DEB82E3FBAA303686008F32185E55B25AE79DC425B)
+00:00:02.747 : [hashfs] dlc_flags_pl.scs: Created and validated, 772 entries (44C79FB093B3FA2ED622DF9E4533F3ACE93ABD46F777F351597BBE16D3C884AE)
+00:00:02.803 : [hashfs] dlc_flags_pt.scs: Created and validated, 1359 entries (64FEAE37FEEE93E7DB82A2E68C74F227725EC95468A797D72D2F9D596EA8B4E9)
+00:00:02.828 : [hashfs] dlc_flags_ro.scs: Created and validated, 817 entries (ECBD37A8FDDBBB9039C461E45777CE4340A3BED5A83E19CA6DD745CDB8D58AD3)
+00:00:02.849 : [hashfs] dlc_flags_ru.scs: Created and validated, 906 entries (4625906BE29763124DC6CD208BDD14ECCD71A1E2B5AE0B7145A9758C5B2C521D)
+00:00:02.873 : [hashfs] dlc_flags_s.scs: Created and validated, 912 entries (AD8E6982B347F0B44F0ED51DEC36604620D1D493AAE4DA7035D2CB6090595221)
+00:00:02.916 : [hashfs] dlc_flags_sc.scs: Created and validated, 955 entries (93BF6A2CEEDC519B92B48F497E5F15E92AC0EA91F9C0BFE208FFDFC4D4C87BAC)
+00:00:02.944 : [hashfs] dlc_flags_sk.scs: Created and validated, 815 entries (0C3578A3CFC9D56026D8CC7AFAC36FA703D1ACFB8413415BB15C227AA5B6CD7E)
+00:00:02.992 : [hashfs] dlc_flags_tr.scs: Created and validated, 902 entries (A2DFABAB8806F4E89088E4741B3680CF206E2059AEF1C9A564081DF369D85FEB)
+00:00:03.036 : [hashfs] dlc_flags_uk.scs: Created and validated, 913 entries (326009926DD7C566A629576F5BF42E55F9189A8F86A771C2D5E646B8223DBE70)
+00:00:03.059 : [hashfs] dlc_flags_ukr.scs: Created and validated, 975 entries (4A4A2EB7FB3A8268FABE31793BB48B6B55032605756D8FCDD50262711F144FCE)
+00:00:03.109 : [hashfs] dlc_flags_us.scs: Created and validated, 922 entries (3487E3B6F9BDFB710E2DCF338751D0E0584A2250BA51228493D094213EB41F10)
+00:00:03.157 : [hashfs] dlc_goodyear.scs: Created and validated, 1596 entries (B058AD28DAC546763540295A26A1CDEBB334CE3E22E751107584DC496CBF314F)
+00:00:03.275 : [hashfs] dlc_halloween.scs: Created and validated, 1879 entries (D89E929AF79565396382E41E68320EEB5E3BFEBB77D01D55816D58DBC9F78FCF)
+00:00:03.390 : [hashfs] dlc_heavy_cargo.scs: Created and validated, 1299 entries (E0586E174CD345F6BA57A9F958D1A24752D1985021F37355264334FC86E6C528)
+00:00:03.465 : [hashfs] dlc_hs_schoch.scs: Created and validated, 1388 entries (1C47C3F03304F2322ADB46C6BC87A32402E3D66D059549CB51847198D5A2DAEF)
+00:00:03.534 : [hashfs] dlc_jcb.scs: Created and validated, 2885 entries (F90234C10663BD6FA0ED54DE97A4EE154F82CC7A6EC3D1A441B71C6637BECF69)
+00:00:03.617 : [hashfs] dlc_krone.scs: Created and validated, 4861 entries (27E798CE70F4C944ECFFCC14DC33D63109CA32DB02D0C401DDEBF47965FE2A47)
+00:00:03.660 : [hashfs] dlc_lines.scs: Created and validated, 3336 entries (2602340F8714A8D8CB0C3332EB9A00D54234B90F5CBE60F15CD512BDE4238FBA)
+00:00:03.765 : [hashfs] dlc_lunar_new_year.scs: Created and validated, 5524 entries (341AAFB07857D0032FB97B345D16C8D84FA01B2015B85C9FE3E42849EAC888F3)
+00:00:03.880 : [hashfs] dlc_man_tgx_2020.scs: Created and validated, 2604 entries (2102FF5AEAF292D4FECEB8A84A562E7A8D36F7B714998356FB4E69863F7EC83E)
+00:00:03.942 : [hashfs] dlc_metallics.scs: Created and validated, 779 entries (C4E8472100C9CA15107AF0AED8588DCE1DEEF7BDA8514771D399B1095FEC3DC2)
+00:00:03.993 : [hashfs] dlc_metallics2.scs: Created and validated, 873 entries (A4B7160FFB91EB823B8A868243CFFCC849C3B8205A1A79AFF5D2FB9590ABB177)
+00:00:04.069 : [hashfs] dlc_michelin.scs: Created and validated, 2428 entries (2D64FF77A8BFDF994D3E76D8C476A4821BF17212E835D98DAE1E8F0A2E0D76D9)
+00:00:04.130 : [hashfs] dlc_mighty_griffin.scs: Created and validated, 2491 entries (71421D32EAED2766818B5D4A8E79493C74421C27234397576FE6C00E3605A07B)
+00:00:04.184 : [hashfs] dlc_nature.scs: Created and validated, 1813 entries (7336ACD83BBB4352C6D763EEDDD96FFDF4889A9BC382FADA764DBFA9B1DA0E4D)
+00:00:04.246 : [hashfs] dlc_north.scs: Created and validated, 3091 entries (0613ACE03D5705590511C7FF261E1631834FB8BFD6571FAE199925E7B5888E61)
+00:00:04.291 : [hashfs] dlc_oversize.scs: Created and validated, 752 entries (A150F1DD6B6F8D7B0B884B4D2184480E26892DF1175A580E5FB884D34E089816)
+00:00:04.326 : [hashfs] dlc_pcg.scs: Created and validated, 176 entries (F228E5ADD706CC48AA2DC80D8D85761DAA5038020EFD54FD82ABDE77438C0974)
+00:00:04.598 : [hashfs] dlc_phys_flags.scs: Created and validated, 11646 entries (F5E066B8A00F3BBE6DA0F2692457501C4ECD3DB6F166C6B776C969C5E9A0D4AF)
+00:00:04.656 : [hashfs] dlc_pink_ribbon.scs: Created and validated, 1496 entries (AB19483FEA71FF573BCBB4FC2ADA6833D0DDB0570238DEB780D6C5A62015B02D)
+00:00:04.683 : [hashfs] dlc_pirates.scs: Created and validated, 1966 entries (58DA02E1A6E358D7674339A9B08911980304B06CFA9DC72770703A08795FE0C2)
+00:00:04.724 : [hashfs] dlc_prehistoric.scs: Created and validated, 1800 entries (6C12A5316BB3E531BBBC1673FA7E5125A114D6F0FAED8BA4545B6DDEDDE33DBC)
+00:00:04.773 : [hashfs] dlc_raven.scs: Created and validated, 1212 entries (093371780C0963FFB6F5C3838E872375FC15288C8FBB3581CCBD93095C04C303)
+00:00:04.829 : [hashfs] dlc_renault_etech_t.scs: Created and validated, 323 entries (C3BAB1635FBDFEDD856A1EBC062F2FD757241C04033EBF77811F560FF9305429)
+00:00:04.878 : [hashfs] dlc_renault_t_tuning.scs: Created and validated, 2466 entries (8FF09C532622EE11AEF7F6D3EFF804292BA647DD9C6884C8744CEF5AD752F448)
+00:00:04.963 : [hashfs] dlc_rims.scs: Created and validated, 713 entries (B0F9F32197E9AAD7557ADF5E9D3E87F764192587E9CA7F0DF309D4A0A5171159)
+00:00:05.015 : [hashfs] dlc_rocket_league.scs: Created and validated, 140 entries (BCBDBF52BC3DB79EA6AD102C5E0A8211EC14948CB09A2F47058756841ABB95F1)
+00:00:05.083 : [hashfs] dlc_schwarzmuller.scs: Created and validated, 3511 entries (0A96B376DF2557093CFA019CFEDD925224EE743B5B3894BCC2826C5B4E53055D)
+00:00:05.117 : [hashfs] dlc_space.scs: Created and validated, 1837 entries (6FF6ACB3B9910B2D2B24C6EF35BA36F40FEE33B4921C09E3C9F66AF9013CA723)
+00:00:05.164 : [hashfs] dlc_streetart.scs: Created and validated, 1949 entries (620C95AD5F761ADBA622110FF9E7B7C1E9AC6D9D439EF8D3C84DD927E77D3A88)
+00:00:05.206 : [hashfs] dlc_super_stripes.scs: Created and validated, 3208 entries (61262BD46262483FAB79F8E1108D14598DC5186D1CC22359A941DF9FC51669F6)
+00:00:05.260 : [hashfs] dlc_tirsan.scs: Created and validated, 5514 entries (488A6717D8CE615D0CF2D677F5FB4FCB8DB6452B3D51F0E75F1527280CCF1BF1)
+00:00:05.338 : [hashfs] dlc_toys.scs: Created and validated, 2660 entries (05F9F3C63C2583414F8E374409A8F076B99FC73D915C0216422AD5F9C3A4F835)
+00:00:05.397 : [hashfs] dlc_trailers.scs: Created and validated, 2386 entries (0F4B78C9057869F99ED67A3A4247C198909EA519AE6CC26B9A08B8D59CE2E924)
+00:00:05.451 : [hashfs] dlc_valentine.scs: Created and validated, 1585 entries (9FE755BEEE81450464C84245E1874037E8E108761CB5300C509702341C75A66E)
+00:00:05.471 : [hashfs] dlc_vikings.scs: Created and validated, 1313 entries (24883A76D673B9199654D04A6A4076E003144FC2888102DE30234F0E6CA471B7)
+00:00:05.504 : [hashfs] dlc_volvo_construction.scs: Created and validated, 2136 entries (AB374E50C0BB363D1F1FBE9845211CB4451F337CEC9009429D77274F47520FA6)
+00:00:05.563 : [hashfs] dlc_volvo_tuning_pack.scs: Created and validated, 2235 entries (5CF3460FD96C7BECBD5D8B30B7AEF141CF61F13E9D496EB706B44AB6F15159D9)
+00:00:05.620 : [hashfs] dlc_wielton.scs: Created and validated, 3937 entries (D88C23C0894EB439D72036DA4B86F5B9A3A51F1B459574E9D7339F2D193F6F04)
+00:00:05.671 : [hashfs] dlc_winter.scs: Created and validated, 2044 entries (52676AEBB48574D326F5BD00477BB7C0F0A54B83FA6361F18C628AD6D8A121EA)
+00:00:05.759 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:05.986 : exec /home/config.cfg
+00:00:05.986 : [sys] Executing /home/config.cfg ...
+00:00:06.002 : uset r_hdr_display_gray_offset "0.0"
+00:00:06.002 : uset r_hdr_display_white "-1.0"
+00:00:06.002 : uset r_hdr_display_black "-1.0"
+00:00:06.002 : uset r_sdr_display_gray_offset "0.0"
+00:00:06.002 : uset r_sdr_display_white "1"
+00:00:06.003 : uset r_sdr_display_black "0"
+00:00:06.003 : uset r_far_shadow_disable "0"
+00:00:06.003 : uset r_show_sun_cascades "0"
+00:00:06.003 : uset r_tonemap_debug "0"
+00:00:06.003 : uset r_drr_strength "8.0"
+00:00:06.003 : uset r_use_depth_bounds "1"
+00:00:06.003 : uset r_hide_helpers "0"
+00:00:06.003 : uset s_sound_debug "0"
+00:00:06.003 : uset s_init_intro_music_mute "0"
+00:00:06.003 : uset s_init_intro_music_volume "0.5"
+00:00:06.003 : uset s_init_ui_music_mute "0"
+00:00:06.003 : uset s_init_ui_music_volume "0.5"
+00:00:06.003 : uset s_init_master_mute "0"
+00:00:06.003 : uset s_init_master_volume "0.75"
+00:00:06.003 : uset s_output_driver ""
+00:00:06.003 : uset s_live_update "0"
+00:00:06.003 : uset s_suspend_sound "1"
+00:00:06.003 : uset g_mm_help_shown "1"
+00:00:06.003 : uset g_frame_image_fmt "jpg"
+00:00:06.003 : uset g_frames_path ""
+00:00:06.003 : uset g_max_convoy_size "8"
+00:00:06.003 : uset g_last_seen_patch_notes_hash "BD50F0A8CD371901515F998E77EBCA966604D17D"
+00:00:06.003 : uset g_anti_slip "1"
+00:00:06.003 : uset g_abs "1"
+00:00:06.003 : uset g_bumps "1.0"
+00:00:06.003 : uset g_editor_zoom_speed "1.0"
+00:00:06.003 : uset g_map_note_user_id "0"
+00:00:06.003 : uset g_color_feedback "1"
+00:00:06.003 : uset g_disable_hud_activation "0"
+00:00:06.003 : uset g_interior_camera_zero_pitch "0"
+00:00:06.003 : uset r_multimon_exterior_in_aux "0"
+00:00:06.003 : uset r_multimon_interior_in_main "1"
+00:00:06.003 : uset r_multimon_rotation_aux "0"
+00:00:06.003 : uset r_multimon_rotation_right "0"
+00:00:06.003 : uset r_multimon_rotation_left "0"
+00:00:06.003 : uset r_multimon_rotation_center "0"
+00:00:06.003 : uset r_multimon_vert_offset_right "0"
+00:00:06.003 : uset r_multimon_vert_offset_left "0"
+00:00:06.003 : uset r_multimon_border_fov_right "0"
+00:00:06.003 : uset r_multimon_border_fov_left "0"
+00:00:06.003 : uset r_multimon_fov_vertical "0"
+00:00:06.003 : uset r_multimon_fov_horizontal "50"
+00:00:06.003 : uset r_multimon_mode "0"
+00:00:06.003 : uset r_buffer_page_size "10"
+00:00:06.003 : uset r_deferred_debug "0"
+00:00:06.003 : uset r_mirror_scale_y "2"
+00:00:06.003 : uset r_mirror_scale_x "2"
+00:00:06.003 : uset r_scale_y "2"
+00:00:06.003 : uset r_scale_x "1.5"
+00:00:06.003 : uset r_normal_maps "1"
+00:00:06.003 : uset r_sunshafts "1"
+00:00:06.003 : uset r_color_saturation "1.0"
+00:00:06.003 : uset r_color_yellow_blue "0.0"
+00:00:06.003 : uset r_color_magenta_green "0.0"
+00:00:06.004 : uset r_color_cyan_red "0.0"
+00:00:06.004 : uset r_color_correction "1"
+00:00:06.004 : uset r_light_flares "1"
+00:00:06.004 : uset r_cloud_shadows "1"
+00:00:06.004 : uset r_dof_filter_size "0.5"
+00:00:06.004 : uset r_dof_transition "400.0"
+00:00:06.004 : uset r_dof_start "200.0"
+00:00:06.004 : uset r_dof "1"
+00:00:06.004 : uset r_ssao "3"
+00:00:06.004 : uset r_taa_luma_sharpen "1"
+00:00:06.004 : uset r_taa_tuning "0"
+00:00:06.004 : uset r_aa "6"
+00:00:06.004 : uset r_fake_shadows "2"
+00:00:06.004 : uset r_sun_shadow_texture_size "4096"
+00:00:06.004 : uset r_sun_shadow_quality "4"
+00:00:06.004 : uset r_mirror_group "3"
+00:00:06.004 : uset r_mirror_view_distance "400"
+00:00:06.004 : uset r_deferred_mirrors "2"
+00:00:06.004 : uset r_nowmi "0"
+00:00:06.004 : uset r_startup_progress "0"
+00:00:06.004 : uset r_setup_done "1"
+00:00:06.004 : uset r_gamma "1"
+00:00:06.004 : uset r_manual_stereo_buffer_scale "1.0"
+00:00:06.004 : uset r_manual_stereo_ui_fov_game "100"
+00:00:06.004 : uset r_manual_stereo_ui_fov "80"
+00:00:06.004 : uset r_manual_stereo_ui_dist_game "0.5"
+00:00:06.004 : uset r_manual_stereo_ui_dist "0.8"
+00:00:06.004 : uset r_manual_stereo_in_menu "0"
+00:00:06.004 : uset r_minimal_unfinished_frames "0"
+00:00:06.004 : uset r_no_frame_tracking "0"
+00:00:06.004 : uset r_fullscreen "1"
+00:00:06.004 : uset r_mode_refresh "240"
+00:00:06.004 : uset r_mode_height "1080"
+00:00:06.004 : uset r_mode_width "1920"
+00:00:06.004 : uset r_path ""
+00:00:06.004 : uset r_device "dx11"
+00:00:06.004 : uset i_cursor_semantic_force_spd_mlt "0.35"
+00:00:06.004 : uset i_cursor_force_spd_mlt "0.75"
+00:00:06.004 : uset i_virtual_cursor_speed "500.0"
+00:00:06.004 : uset g_stream_exts ".ogg;.mp3"
+00:00:06.004 : uset g_album_image "0"
+00:00:06.004 : uset g_thrustmaster "1"
+00:00:06.078 : uset g_tobii "1"
+00:00:06.078 : uset g_trackir "1"
+00:00:06.078 : uset g_lod_factor_pedestrian "1.0"
+00:00:06.078 : uset g_pedestrian "1"
+00:00:06.078 : uset g_light_span_factor "1"
+00:00:06.078 : uset g_light_distance_factor "1"
+00:00:06.078 : uset g_vehicle_flare_lights "1"
+00:00:06.078 : uset g_auto_traffic_headlights "1"
+00:00:06.078 : uset g_lod_factor_parked "1.0"
+00:00:06.078 : uset g_lod_factor_traffic "1.0"
+00:00:06.078 : uset g_traffic "1.0"
+00:00:06.078 : uset g_kdop_preview "0"
+00:00:06.078 : uset g_screenshot_on_bug_quality "100"
+00:00:06.078 : uset g_screenshot_on_bug "0"
+00:00:06.078 : uset g_shoulder_block_coloring "0"
+00:00:06.078 : uset g_debug_map_limits "0"
+00:00:06.078 : uset g_city_name_move "0"
+00:00:06.078 : uset g_assert_dump "0"
+00:00:06.078 : uset g_developer "0"
+00:00:06.078 : uset g_semantical_pause_inactivity "120"
+00:00:06.078 : uset g_pause_on_disconnect "1"
+00:00:06.078 : uset g_semantical_ff_inactivity "300"
+00:00:06.078 : uset g_steam_rich_presence "1"
+00:00:06.078 : uset g_steam_browser "1"
+00:00:06.078 : uset g_steam_screenshots "2"
+00:00:06.078 : uset g_artist_id "0"
+00:00:06.078 : uset g_save_format "0"
+00:00:06.078 : uset g_trailer_cables_mode "4"
+00:00:06.078 : uset g_intelligent_transmission "0"
+00:00:06.078 : uset g_spec_trans_refill_tank "1"
+00:00:06.078 : uset g_flyspeed "100.0"
+00:00:06.079 : uset g_online_loading_screens "1"
+00:00:06.079 : uset g_news "1"
+00:00:06.079 : uset g_colbox "0"
+00:00:06.079 : uset g_radio_mode "1"
+00:00:06.079 : uset g_ignore_low_fps "0"
+00:00:06.079 : uset g_truck_light_specular "1"
+00:00:06.079 : uset g_gfx_all_scales "0"
+00:00:06.079 : uset g_gfx_advanced "1"
+00:00:06.079 : uset g_gfx_quality "-1"
+00:00:06.079 : uset g_hq_3d_scale "0.0"
+00:00:06.079 : uset g_hq_3d_screenshot "0"
+00:00:06.079 : uset g_menu_aa_limit "8"
+00:00:06.079 : uset g_additional_water_fov "20.0f"
+00:00:06.079 : uset g_water_reflect_actor "0"
+00:00:06.079 : uset g_rain_sensor "0"
+00:00:06.079 : uset g_rain_reflect_hookups "1"
+00:00:06.079 : uset g_rain_reflect_actor "1"
+00:00:06.079 : uset g_rain_reflect_traffic "1"
+00:00:06.079 : uset g_rain_reflect_cache "1"
+00:00:06.079 : uset g_rain_reflection "3"
+00:00:06.079 : uset g_reflection_scale "1"
+00:00:06.079 : uset g_reflection "3"
+00:00:06.079 : uset g_grass_density "2"
+00:00:06.079 : uset g_veg_detail "2"
+00:00:06.079 : uset g_save_indicator "1"
+00:00:06.079 : uset g_game_version "1.50.2.3"
+00:00:06.079 : uset g_force_online_lscrs "0"
+00:00:06.079 : uset g_hw_info "1"
+00:00:06.079 : uset g_glass_debugging_level "0"
+00:00:06.079 : uset g_line_sort "0"
+00:00:06.079 : uset g_cargo_sort "0"
+00:00:06.079 : uset g_bloom_standard_deviation "0.5"
+00:00:06.079 : uset g_bloom_override "0"
+00:00:06.079 : uset g_bloom "1.0"
+00:00:06.079 : uset g_global_force_load_selector "0"
+00:00:06.079 : uset g_desktop_fadeout "60"
+00:00:06.079 : uset g_item_check_speed "-1"
+00:00:06.079 : uset g_debug_allocators "-1"
+00:00:06.079 : uset g_suspension_auto_reset "1"
+00:00:06.079 : uset g_upshift_coef "0.3"
+00:00:06.079 : uset g_downshift_coef "0.8"
+00:00:06.079 : uset g_minicon "0"
+00:00:06.079 : uset g_console_state "0"
+00:00:06.079 : uset g_console "0"
+00:00:06.079 : uset g_fps "0"
+00:00:06.079 : uset ui_tooltip_delay "0.4"
+00:00:06.079 : uset r_imgui_scale "1.0"
+00:00:06.079 : uset r_output "-1"
+00:00:06.079 : uset r_adapter "-1"
+00:00:06.079 : uset r_vsync "1"
+00:00:06.079 : uset r_color_space "auto"
+00:00:06.079 : uset r_color_mode "0"
+00:00:06.079 : uset r_anisotropy_factor "1"
+00:00:06.079 : uset r_texture_detail "0"
+00:00:06.079 : uset cf_beacon_light "1"
+00:00:06.079 : uset cf_asus_aura "1"
+00:00:06.079 : uset cf_razer_chroma "1"
+00:00:06.080 : uset v_bug_break "0"
+00:00:06.080 : uset t_limit_fps_inactive "30"
+00:00:06.080 : uset t_limit_fps "180"
+00:00:06.080 : uset t_locked_fps "0"
+00:00:06.080 : uset t_averaging_window_duration "100"
+00:00:06.080 : uset t_averaging_window_length "20"
+00:00:06.113 : [lang] Language autodetection: 409
+00:00:06.130 : Selected language: en_us
+00:00:06.130 : Euro Truck Simulator 2 init ver.1.50.2.3s (rev. 9288329d5084)
+00:00:06.136 : Render device override: dx11
+00:00:06.136 : [gfx] Selected rendering device: dx11
+00:00:06.177 : [nvapi] NVAPI initialized
+00:00:06.185 : [gfx] AGS not detected. (6)
+00:00:06.298 : [net]  LOG INFO: Started
+00:00:06.382 : Setting UI reference mode to: 1440x900...
+00:00:06.396 : [dxgi] Detected following adapters:
+00:00:06.398 : [dxgi] 0 - NVIDIA GeForce GTX 1650 (32.0.15.5599) [3937 MB]
+00:00:06.400 : [dxgi] Using adapter: NVIDIA GeForce GTX 1650 (32.0.15.5599) [3937 MB]
+00:00:06.412 : [gfx] Using the DXGI display backend
+00:00:06.643 : [dx11] Using SM5X rendering path
+00:00:06.644 : [dxgi] Selected swapchain color mode:
+00:00:06.644 : [disp] srgb (sdr) - sRGB Gamma 2.2 - B8G8R8A8_UNORM_SRGB +native
+00:00:06.651 : [dx11] Backbuffer acquired
+00:00:06.685 : [disp] Adapter 0:  on DXGI backend
+00:00:06.685 : [disp] Output 0 : \\.\DISPLAY1 - CRTC @ (0, 0, 1920, 1080)
+00:00:06.685 : [disp] Detected color modes:
+00:00:06.685 : [disp] srgb (sdr) - sRGB Gamma 2.2 - B8G8R8A8_UNORM_SRGB +native
+00:00:06.685 : [disp] rec709 (sdr) - Limited Rec709 Gamma 2.4 - B8G8R8A8_UNORM +native
+00:00:06.692 : [disp] Display MinLum: 0.500000, MaxLum 270.000000, MaxAvgLum: 270.000000
+00:00:06.978 : [r_effect] Rescan took 0.3s
+00:00:10.167 : [sound] Available drivers: #7
+00:00:10.180 : [sound] Driver 0 = new headphones (High Definition Audio Device) (192000 Hz) ({47938e03-91c4-48b2-aa1e-d39639863f73})
+00:00:10.180 : [sound] Driver 1 = Digital Audio (S/PDIF) (High Definition Audio Device) (192000 Hz) ({0c76b0a7-cd1e-47ae-8177-296db9553f44})
+00:00:10.180 : [sound] Driver 2 = CABLE Input (VB-Audio Virtual Cable) (48000 Hz) ({40fbe356-d0e9-4f56-b21a-d61b41639336})
+00:00:10.180 : [sound] Driver 3 = Speakers (Steam Streaming Microphone) (48000 Hz) ({54856931-9f59-4795-afd4-4da245d2b0a0})
+00:00:10.180 : [sound] Driver 4 = Speakers (Steam Streaming Speakers) (48000 Hz) ({54dd87c6-9d8d-4deb-8dc3-95b91f30c693})
+00:00:10.180 : [sound] Driver 5 = Speakers (2- VB-Audio Virtual Cable) (48000 Hz) ({578c3164-46fb-4092-861e-0d3ed879dcc4})
+00:00:10.180 : [sound] Driver 6 = Sceptre K25 (NVIDIA High Definition Audio) (48000 Hz) ({93e88258-457b-4f82-9c33-26d4a46c2887})
+00:00:10.384 : [sound] Selecting default audio driver (0).
+00:00:10.983 : Game is running on Steamdeck: no, g_steam_steamdeck_mode 0
+00:00:11.001 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:11.013 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:11.150 : <WARNING> [di8] Device detection did take 137ms, disabling interactive detections
+00:00:11.307 : [color_feedback] Beacon Light disabled, some of DLL functions not found.
+00:00:12.427 : Banlist loading...
+00:00:12.434 : === BAN LIST ===
+00:00:12.437 : ================
+00:00:12.550 : [zipfs] obel_bore_led_v19.zip: Created, 245 entries
+00:00:12.557 : [zipfs] obel_bore_led_v19.zip: Unmounted
+00:00:12.798 : [mod_package_manager] Received list of the steam workshop subscribed mods. (received 12 mods total, 12 loaded, 0 scheduled for download)
+00:00:12.799 : dispatch
+00:00:12.811 : server_cfg
+00:00:12.862 : exit
+00:00:13.568 : [bullet] Starting physics server: Bullet
+00:00:14.303 : [win] new windowed size: 116 1
+00:00:14.303 : [dx11] Window resize notification received: 116 1
+00:00:14.306 : [win] new windowed size: 136 44
+00:00:14.306 : [dx11] Window resize notification received: 136 44
+00:00:14.310 : [win] new windowed size: 1920 1080
+00:00:14.310 : [dx11] Window resize notification received: 1920 1080
+00:00:15.405 : [dx11] Backbuffer released
+00:00:15.408 : [dx11] Backbuffer acquired
+00:00:29.300 : mm_flush_repeatedly
+00:00:29.315 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_actros_tuning.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_christmas.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_daf_2021.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_daf_tuning_pack.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_daf_xd.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_dragon.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_east.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_fantasy.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_feldbinder.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_at.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_aus.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_be.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_bg.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_bz.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ca.scs mounted.
+00:00:29.316 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ch.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_cn.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_cz.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_de.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_dk.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ee.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_es.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_fi.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_fr.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_hu.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ie.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_it.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_jp.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_kr.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_lt.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_lv.scs mounted.
+00:00:29.317 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_n.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_nl.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_pl.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_pt.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ro.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ru.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_s.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_sc.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_sk.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_tr.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_uk.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_ukr.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_flags_us.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_goodyear.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_halloween.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_heavy_cargo.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_hs_schoch.scs mounted.
+00:00:29.318 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_jcb.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_krone.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_lines.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_lunar_new_year.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_man_tgx_2020.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_metallics.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_metallics2.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_michelin.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_mighty_griffin.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_nature.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_north.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_oversize.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_pcg.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_phys_flags.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_pink_ribbon.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_pirates.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_prehistoric.scs mounted.
+00:00:29.319 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_raven.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_renault_etech_t.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_renault_t_tuning.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_rims.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_rocket_league.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_schwarzmuller.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_space.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_streetart.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_super_stripes.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_tirsan.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_toys.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_trailers.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_valentine.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_vikings.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_volvo_construction.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_volvo_tuning_pack.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_wielton.scs mounted.
+00:00:29.320 : [fs] device D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/dlc_winter.scs mounted.
+00:00:29.453 : uset s_cbeffects_mute "0"
+00:00:29.453 : uset s_voiceover_mute "0"
+00:00:29.453 : uset s_intro_music_mute "0"
+00:00:29.453 : uset s_ui_music_mute "0"
+00:00:29.453 : uset s_ui_mute "0"
+00:00:29.453 : uset s_navigation_mute "0"
+00:00:29.453 : uset s_music_mute "0"
+00:00:29.453 : uset s_radio_mute "0"
+00:00:29.453 : uset s_interior_mute "0"
+00:00:29.453 : uset s_ambient_mute "0"
+00:00:29.453 : uset s_world_mute "0"
+00:00:29.453 : uset s_traffic_mute "0"
+00:00:29.453 : uset s_trailer_mute "0"
+00:00:29.453 : uset s_truck_noise_mute "0"
+00:00:29.453 : uset s_truck_effects_mute "0"
+00:00:29.453 : uset s_truck_turbo_mute "0"
+00:00:29.453 : uset s_truck_exhaust_mute "0"
+00:00:29.453 : uset s_truck_engine_mute "0"
+00:00:29.453 : uset s_master_mute "0"
+00:00:29.453 : uset s_cbeffects_volume "0.5"
+00:00:29.453 : uset s_voiceover_volume "0.5"
+00:00:29.453 : uset s_intro_music_volume "0.5"
+00:00:29.453 : uset s_ui_music_volume "0.5"
+00:00:29.453 : uset s_ui_volume "0.5"
+00:00:29.453 : uset s_navigation_volume "0.5"
+00:00:29.453 : uset s_music_volume "0.5"
+00:00:29.453 : uset s_radio_volume "0.5"
+00:00:29.453 : uset s_interior_volume "0.5"
+00:00:29.453 : uset s_ambient_volume "0.5"
+00:00:29.453 : uset s_world_volume "0.5"
+00:00:29.453 : uset s_traffic_volume "0.5"
+00:00:29.453 : uset s_trailer_volume "0.5"
+00:00:29.453 : uset s_truck_noise_volume "0.5"
+00:00:29.453 : uset s_truck_effects_volume "0.5"
+00:00:29.453 : uset s_truck_turbo_volume "0.5"
+00:00:29.453 : uset s_truck_exhaust_volume "0.5"
+00:00:29.453 : uset s_truck_engine_volume "0.5"
+00:00:29.453 : uset s_master_volume "0.75"
+00:00:29.453 : uset i_oculus_eye_protrusion "0.09"
+00:00:29.453 : uset i_oculus_eye_height "0.15"
+00:00:29.453 : uset i_hmd_max_prediction "0.1"
+00:00:29.453 : uset i_hmd_min_prediction "0.0"
+00:00:29.453 : uset r_interior "1"
+00:00:29.454 : uset r_steering_wheel "1"
+00:00:29.454 : uset g_eye_preset_5 ""
+00:00:29.454 : uset g_eye_preset_4 ""
+00:00:29.454 : uset g_eye_preset_3 ""
+00:00:29.454 : uset g_eye_preset_2 ""
+00:00:29.454 : uset g_eye_preset_1 ""
+00:00:29.454 : uset g_eye_enable "0"
+00:00:29.454 : uset g_cam_window_block "0.0"
+00:00:29.454 : uset g_toy_physics "1"
+00:00:29.454 : uset g_cam_steering_reverse "1.0"
+00:00:29.454 : uset g_cam_steering_value "1.0"
+00:00:29.454 : uset g_cam_steering "0"
+00:00:29.454 : uset g_pedal_clutch_range "1.0"
+00:00:29.454 : uset g_brake_intensity "1.0"
+00:00:29.454 : uset g_steer_anim_range "900"
+00:00:29.454 : uset g_steer_autocenter "1"
+00:00:29.454 : uset g_clutch_brake "0.0"
+00:00:29.454 : uset g_hshifter_synchronized "1"
+00:00:29.454 : uset g_hshifter_split "3"
+00:00:29.454 : uset g_hshifter_layout_shifting "1"
+00:00:29.454 : uset g_hshifter_layout "splitter"
+00:00:29.454 : uset g_trans "3"
+00:00:29.454 : uset g_baked_vehicle "1"
+00:00:29.454 : uset g_force_economy_reset "0"
+00:00:29.454 : uset g_input_configured "1"
+00:00:29.469 : uset s_reverb_world "1"
+00:00:29.469 : uset s_reverb_cabin "1"
+00:00:29.469 : uset s_noise_aero "1"
+00:00:29.469 : uset s_noise_windows "1"
+00:00:29.469 : uset s_rumble_enabled "1"
+00:00:29.469 : uset s_reverse_enabled "1"
+00:00:29.469 : uset s_cb_radio_beep_type "roger01"
+00:00:29.469 : uset s_cb_radio_beep_own "0"
+00:00:29.469 : uset s_cb_radio_beep_enabled "1"
+00:00:29.469 : uset s_cb_radio_noise_enabled "1"
+00:00:29.469 : uset g_mp_name_tags "1"
+00:00:29.469 : uset g_chat_fade_out_timer "5"
+00:00:29.469 : uset g_chat_partial_fade_out "0"
+00:00:29.470 : uset g_chat_on_navigation "1"
+00:00:29.470 : uset g_chat_activate "1"
+00:00:29.470 : uset g_chat_close_automatic "0"
+00:00:29.470 : uset g_disable_beacons "0"
+00:00:29.470 : uset g_show_game_blockers "1"
+00:00:29.470 : uset g_show_game_elements "1"
+00:00:29.470 : uset g_hmd_no_3d_background "0"
+00:00:29.470 : uset g_hmd_no_special_menu "0"
+00:00:29.470 : uset g_hmd_reduced_cabin_movement "1"
+00:00:29.470 : uset g_hmd_no_artifical_movement "0"
+00:00:29.470 : uset g_eye_pause_gaze "3000"
+00:00:29.470 : uset g_eye_pause "0"
+00:00:29.470 : uset g_cam_blinker "0"
+00:00:29.470 : uset g_camera_horizon_lock "0.5"
+00:00:29.470 : uset g_cam_physics_value "1.0"
+00:00:29.470 : uset g_cam_physics "1"
+00:00:29.470 : uset g_lane_assistant "0"
+00:00:29.470 : uset g_emergency_brake_mode "1"
+00:00:29.470 : uset g_emergency_brake "0"
+00:00:29.470 : uset g_acc "0.0"
+00:00:29.470 : uset g_automatic_high_beams "0"
+00:00:29.470 : uset g_automatic_headlights "0"
+00:00:29.470 : uset g_blinker_auto_off "1"
+00:00:29.470 : uset g_cruise_control_smart "5.0"
+00:00:29.470 : uset g_cruise_control_grid "5.0"
+00:00:29.470 : uset g_adaptive_shift "0.0"
+00:00:29.470 : uset g_fuel_simulation "0"
+00:00:29.470 : uset g_hardcore_simulation "0"
+00:00:29.470 : uset g_reg_setting ""
+00:00:29.470 : uset g_brake_light_all "0"
+00:00:29.470 : uset g_use_speed_limiter "0"
+00:00:29.470 : uset g_hud_speed_warning "0"
+00:00:29.470 : uset g_hud_speed_limit "1"
+00:00:29.470 : uset g_axle_drop_auto "1"
+00:00:29.470 : uset g_engine_start_auto "0"
+00:00:29.470 : uset g_motor_brake_auto "0"
+00:00:29.470 : uset g_retarder_auto "0"
+00:00:29.470 : uset g_cabin_suspension_stiffness "1.0"
+00:00:29.470 : uset g_suspension_stiffness "1.0"
+00:00:29.470 : uset g_trailer_stability "0.5"
+00:00:29.470 : uset g_driveshaft_torque "0.0"
+00:00:29.470 : uset g_truck_stability "0.5"
+00:00:29.470 : uset g_mpg "0"
+00:00:29.470 : uset g_gallon "0"
+00:00:29.471 : uset g_psi "0"
+00:00:29.471 : uset g_fahrenheit "0"
+00:00:29.471 : uset g_pounds "kg"
+00:00:29.471 : uset g_mph "0"
+00:00:29.471 : uset g_road_events "0"
+00:00:29.471 : uset g_detours "0"
+00:00:29.471 : uset g_online_billboards "1"
+00:00:29.471 : uset g_name_localization_secondary "0"
+00:00:29.471 : uset g_name_localization "1"
+00:00:29.471 : uset g_lang_set "1"
+00:00:29.471 : uset g_lang "en_us"
+00:00:29.471 : uset g_cutscenes "0"
+00:00:29.471 : uset g_phys_mirrors "0"
+00:00:29.471 : uset g_world_map_zoom "6"
+00:00:29.471 : uset g_cargo_load_require_park_brake "0"
+00:00:29.471 : uset g_cargo_load_require_engine_off "1"
+00:00:29.471 : uset g_desktop_tour "0"
+00:00:29.471 : uset g_event_desktop_bcg_change "0"
+00:00:29.471 : uset g_event_desktop_bcg_restore "config"
+00:00:29.471 : uset g_last_event_desktop_bcg_change "0"
+00:00:29.471 : uset g_show_always_wotr_event "0"
+00:00:29.471 : uset g_last_wotr_event_start "0"
+00:00:29.471 : uset g_multiplayer_backup_index "-1"
+00:00:29.471 : uset g_force_load_selector "0"
+00:00:29.471 : uset g_autoload_ignore_autosave "0"
+00:00:29.471 : uset g_start_in_truck "0"
+00:00:29.471 : uset g_park_brake_init "0"
+00:00:29.471 : uset g_trailer_advanced_coupling "0"
+00:00:29.471 : uset g_parking_difficulty "0"
+00:00:29.471 : uset g_simple_parking_doubles "1"
+00:00:29.471 : uset g_speed_warning "0"
+00:00:29.471 : uset g_voice_navigation_pack ""
+00:00:29.471 : uset g_voice_navigation "0"
+00:00:29.471 : uset g_job_distance "1.0"
+00:00:29.471 : uset g_job_distance_limit "-1.0"
+00:00:29.472 : uset g_income_factor "1.0"
+00:00:29.472 : uset g_currency "0"
+00:00:29.472 : uset g_bad_weather_factor "0"
+00:00:29.472 : uset g_truck_analysis_fold "0"
+00:00:29.472 : uset g_desktop_rnd "0"
+00:00:29.472 : uset g_desktop_bcg "config"
+00:00:29.472 : uset g_save_idx "1"
+00:00:29.472 : uset g_ui_map_align "1"
+00:00:29.472 : uset g_gps_routing_mode "0"
+00:00:29.472 : uset g_gps_navigation "3"
+00:00:29.472 : uset g_heavy_cargo_popup "1"
+00:00:29.472 : uset g_mirrors "0"
+00:00:29.472 : uset g_adviser_eta "1"
+00:00:29.472 : uset g_adviser_running_message "1"
+00:00:29.472 : uset g_adviser_auto_parking "1"
+00:00:29.472 : uset g_adviser_keep_hidden "0"
+00:00:29.472 : uset g_adviser "1"
+00:00:29.472 : uset g_desktop_tutorial "0"
+00:00:29.472 : uset g_tutorial "0"
+00:00:29.472 : uset g_fatigue "0"
+00:00:29.472 : uset g_time_zones "2"
+00:00:29.472 : uset g_police "0"
+00:00:29.472 : uset g_subtitles "0"
+00:00:29.472 : uset g_clock_24 "0"
+00:00:29.485 : uset s_cbeffects_mute "0"
+00:00:29.485 : uset s_voiceover_mute "0"
+00:00:29.485 : uset s_intro_music_mute "0"
+00:00:29.485 : uset s_ui_music_mute "0"
+00:00:29.485 : uset s_ui_mute "0"
+00:00:29.485 : uset s_navigation_mute "0"
+00:00:29.485 : uset s_music_mute "0"
+00:00:29.485 : uset s_radio_mute "0"
+00:00:29.485 : uset s_interior_mute "0"
+00:00:29.485 : uset s_ambient_mute "0"
+00:00:29.486 : uset s_world_mute "0"
+00:00:29.486 : uset s_traffic_mute "0"
+00:00:29.486 : uset s_trailer_mute "0"
+00:00:29.486 : uset s_truck_noise_mute "0"
+00:00:29.486 : uset s_truck_effects_mute "0"
+00:00:29.486 : uset s_truck_turbo_mute "0"
+00:00:29.486 : uset s_truck_exhaust_mute "0"
+00:00:29.486 : uset s_truck_engine_mute "0"
+00:00:29.486 : uset s_master_mute "0"
+00:00:29.486 : uset s_cbeffects_volume "0.5"
+00:00:29.486 : uset s_voiceover_volume "0.5"
+00:00:29.486 : uset s_intro_music_volume "0.5"
+00:00:29.486 : uset s_ui_music_volume "0.5"
+00:00:29.486 : uset s_ui_volume "0.5"
+00:00:29.486 : uset s_navigation_volume "0.5"
+00:00:29.486 : uset s_music_volume "0.5"
+00:00:29.486 : uset s_radio_volume "0.5"
+00:00:29.486 : uset s_interior_volume "0.5"
+00:00:29.486 : uset s_ambient_volume "0.5"
+00:00:29.486 : uset s_world_volume "0.5"
+00:00:29.486 : uset s_traffic_volume "0.5"
+00:00:29.486 : uset s_trailer_volume "0.5"
+00:00:29.486 : uset s_truck_noise_volume "0.5"
+00:00:29.486 : uset s_truck_effects_volume "0.5"
+00:00:29.486 : uset s_truck_turbo_volume "0.5"
+00:00:29.486 : uset s_truck_exhaust_volume "0.5"
+00:00:29.486 : uset s_truck_engine_volume "0.5"
+00:00:29.486 : uset s_master_volume "0.75"
+00:00:29.486 : uset i_oculus_eye_protrusion "0.09"
+00:00:29.486 : uset i_oculus_eye_height "0.15"
+00:00:29.486 : uset i_hmd_max_prediction "0.1"
+00:00:29.486 : uset i_hmd_min_prediction "0.0"
+00:00:29.486 : uset r_interior "1"
+00:00:29.486 : uset r_steering_wheel "1"
+00:00:29.486 : uset g_eye_preset_5 ""
+00:00:29.486 : uset g_eye_preset_4 ""
+00:00:29.486 : uset g_eye_preset_3 ""
+00:00:29.486 : uset g_eye_preset_2 ""
+00:00:29.486 : uset g_eye_preset_1 ""
+00:00:29.486 : uset g_eye_enable "0"
+00:00:29.486 : uset g_cam_window_block "0.0"
+00:00:29.486 : uset g_toy_physics "1"
+00:00:29.486 : uset g_cam_steering_reverse "1.0"
+00:00:29.486 : uset g_cam_steering_value "1.0"
+00:00:29.486 : uset g_cam_steering "0"
+00:00:29.487 : uset g_pedal_clutch_range "1.0"
+00:00:29.487 : uset g_brake_intensity "1.0"
+00:00:29.487 : uset g_steer_anim_range "900"
+00:00:29.487 : uset g_steer_autocenter "1"
+00:00:29.487 : uset g_clutch_brake "0.0"
+00:00:29.487 : uset g_hshifter_synchronized "1"
+00:00:29.487 : uset g_hshifter_split "3"
+00:00:29.487 : uset g_hshifter_layout_shifting "1"
+00:00:29.487 : uset g_hshifter_layout "splitter"
+00:00:29.487 : uset g_trans "3"
+00:00:29.487 : uset g_baked_vehicle "1"
+00:00:29.487 : uset g_force_economy_reset "0"
+00:00:29.487 : uset g_input_configured "1"
+00:00:29.487 : uset s_reverb_world "1"
+00:00:29.487 : uset s_reverb_cabin "1"
+00:00:29.487 : uset s_noise_aero "1"
+00:00:29.487 : uset s_noise_windows "1"
+00:00:29.487 : uset s_rumble_enabled "1"
+00:00:29.487 : uset s_reverse_enabled "1"
+00:00:29.487 : uset s_cb_radio_beep_type "roger01"
+00:00:29.487 : uset s_cb_radio_beep_own "0"
+00:00:29.487 : uset s_cb_radio_beep_enabled "1"
+00:00:29.487 : uset s_cb_radio_noise_enabled "1"
+00:00:29.487 : uset g_mp_name_tags "1"
+00:00:29.487 : uset g_chat_fade_out_timer "5"
+00:00:29.488 : uset g_chat_partial_fade_out "0"
+00:00:29.488 : uset g_chat_on_navigation "1"
+00:00:29.488 : uset g_chat_activate "1"
+00:00:29.488 : uset g_chat_close_automatic "0"
+00:00:29.488 : uset g_disable_beacons "0"
+00:00:29.488 : uset g_show_game_blockers "1"
+00:00:29.488 : uset g_show_game_elements "1"
+00:00:29.488 : uset g_hmd_no_3d_background "0"
+00:00:29.488 : uset g_hmd_no_special_menu "0"
+00:00:29.488 : uset g_hmd_reduced_cabin_movement "1"
+00:00:29.488 : uset g_hmd_no_artifical_movement "0"
+00:00:29.488 : uset g_eye_pause_gaze "3000"
+00:00:29.488 : uset g_eye_pause "0"
+00:00:29.488 : uset g_cam_blinker "0"
+00:00:29.488 : uset g_camera_horizon_lock "0.5"
+00:00:29.488 : uset g_cam_physics_value "1.0"
+00:00:29.488 : uset g_cam_physics "1"
+00:00:29.488 : uset g_lane_assistant "0"
+00:00:29.488 : uset g_emergency_brake_mode "1"
+00:00:29.488 : uset g_emergency_brake "0"
+00:00:29.488 : uset g_acc "0.0"
+00:00:29.488 : uset g_automatic_high_beams "0"
+00:00:29.488 : uset g_automatic_headlights "0"
+00:00:29.488 : uset g_blinker_auto_off "1"
+00:00:29.488 : uset g_cruise_control_smart "5.0"
+00:00:29.488 : uset g_cruise_control_grid "5.0"
+00:00:29.488 : uset g_adaptive_shift "0.0"
+00:00:29.488 : uset g_fuel_simulation "0"
+00:00:29.488 : uset g_hardcore_simulation "0"
+00:00:29.488 : uset g_reg_setting ""
+00:00:29.488 : uset g_brake_light_all "0"
+00:00:29.488 : uset g_use_speed_limiter "0"
+00:00:29.488 : uset g_hud_speed_warning "0"
+00:00:29.488 : uset g_hud_speed_limit "1"
+00:00:29.488 : uset g_axle_drop_auto "1"
+00:00:29.488 : uset g_engine_start_auto "0"
+00:00:29.488 : uset g_motor_brake_auto "0"
+00:00:29.488 : uset g_retarder_auto "0"
+00:00:29.488 : uset g_cabin_suspension_stiffness "1.0"
+00:00:29.488 : uset g_suspension_stiffness "1.0"
+00:00:29.488 : uset g_trailer_stability "0.5"
+00:00:29.489 : uset g_driveshaft_torque "0.0"
+00:00:29.489 : uset g_truck_stability "0.5"
+00:00:29.489 : uset g_mpg "0"
+00:00:29.489 : uset g_gallon "0"
+00:00:29.489 : uset g_psi "0"
+00:00:29.489 : uset g_fahrenheit "0"
+00:00:29.489 : uset g_pounds "kg"
+00:00:29.489 : uset g_mph "0"
+00:00:29.489 : uset g_road_events "0"
+00:00:29.489 : uset g_detours "0"
+00:00:29.489 : uset g_online_billboards "1"
+00:00:29.489 : uset g_name_localization_secondary "0"
+00:00:29.489 : uset g_name_localization "1"
+00:00:29.489 : uset g_lang_set "1"
+00:00:29.489 : uset g_lang "en_us"
+00:00:29.489 : uset g_cutscenes "0"
+00:00:29.489 : uset g_phys_mirrors "0"
+00:00:29.489 : uset g_world_map_zoom "6"
+00:00:29.489 : uset g_cargo_load_require_park_brake "0"
+00:00:29.489 : uset g_cargo_load_require_engine_off "1"
+00:00:29.489 : uset g_desktop_tour "0"
+00:00:29.489 : uset g_event_desktop_bcg_change "0"
+00:00:29.489 : uset g_event_desktop_bcg_restore "config"
+00:00:29.489 : uset g_last_event_desktop_bcg_change "0"
+00:00:29.489 : uset g_show_always_wotr_event "0"
+00:00:29.489 : uset g_last_wotr_event_start "0"
+00:00:29.489 : uset g_multiplayer_backup_index "-1"
+00:00:29.489 : uset g_force_load_selector "0"
+00:00:29.489 : uset g_autoload_ignore_autosave "0"
+00:00:29.489 : uset g_start_in_truck "0"
+00:00:29.489 : uset g_park_brake_init "0"
+00:00:29.489 : uset g_trailer_advanced_coupling "0"
+00:00:29.489 : uset g_parking_difficulty "0"
+00:00:29.489 : uset g_simple_parking_doubles "1"
+00:00:29.489 : uset g_speed_warning "0"
+00:00:29.489 : uset g_voice_navigation_pack ""
+00:00:29.489 : uset g_voice_navigation "0"
+00:00:29.489 : uset g_job_distance "1.0"
+00:00:29.489 : uset g_job_distance_limit "-1.0"
+00:00:29.489 : uset g_income_factor "1.0"
+00:00:29.489 : uset g_currency "0"
+00:00:29.489 : uset g_bad_weather_factor "0"
+00:00:29.490 : uset g_truck_analysis_fold "0"
+00:00:29.490 : uset g_desktop_rnd "0"
+00:00:29.490 : uset g_desktop_bcg "config"
+00:00:29.490 : uset g_save_idx "1"
+00:00:29.490 : uset g_ui_map_align "1"
+00:00:29.490 : uset g_gps_routing_mode "0"
+00:00:29.490 : uset g_gps_navigation "3"
+00:00:29.490 : uset g_heavy_cargo_popup "1"
+00:00:29.490 : uset g_mirrors "0"
+00:00:29.490 : uset g_adviser_eta "1"
+00:00:29.490 : uset g_adviser_running_message "1"
+00:00:29.490 : uset g_adviser_auto_parking "1"
+00:00:29.490 : uset g_adviser_keep_hidden "0"
+00:00:29.490 : uset g_adviser "1"
+00:00:29.490 : uset g_desktop_tutorial "0"
+00:00:29.490 : uset g_tutorial "0"
+00:00:29.490 : uset g_fatigue "0"
+00:00:29.490 : uset g_time_zones "2"
+00:00:29.490 : uset g_police "0"
+00:00:29.490 : uset g_subtitles "0"
+00:00:29.490 : uset g_clock_24 "0"
+00:00:29.507 : <WARNING> Unable to find alternative for device 'xinput.xinput_gamepad_1', unable to fix its binding
+00:00:29.507 : <WARNING> Unable to find alternative for device 'di8.'{90320DF0-0BCF-11EF-8002-444553540000}|{0B20045E-0000-0000-0000-504944564944}'', unable to fix its binding
+00:00:29.520 : New profile selected: ':no_cloud/breakfast'
+00:00:30.253 : loading 'telemetry' 'C:/ProgramData/TrackSim/telemetry.dll'
+00:00:30.295 : loading 'TruckyTelemetry' 'D:/SteamLibrary/steamapps/common/Euro Truck Simulator 2/bin/win_x64/plugins/TruckyTelemetry.dll'
+00:01:08.536 : [TrackSim] Job Logging Solution by Omnibyte Technologies Limited & CharlesWithC.
+00:01:08.580 : [TrackSim] Steam authentication successful.
+00:01:08.588 : [TRUCKY] Game: Euro Truck Simulator 2 1.50.2.3s
+00:01:08.588 : [TRUCKY] Initializing plugin
+00:01:08.589 : [TRUCKY] SteamID: 76561198390545661
+00:01:08.589 : [TRUCKY] Is Multiplayer: 0
+00:01:08.589 : [TRUCKY] Has Trucksbook: 0
+00:01:08.589 : [TRUCKY] Registering channels
+00:01:08.590 : [TRUCKY] Registering gameplay events callback
+00:01:08.590 : [TRUCKY] [Websocket Server] - Intializing Wss Server
+00:01:08.590 : [TRUCKY] Sending Generic Event: telemetry_initialized
+00:01:08.590 : [TRUCKY] [Websocket Server] - Wss Server ready to accept connections
+00:01:08.590 : [TRUCKY] Channels registered
+00:01:09.109 : [mods] Active 0 mods (local: 0, workshop: 0)
+00:01:09.597 : game
+00:01:09.645 : <WARNING> Unable to find alternative for device 'xinput.xinput_gamepad_1', unable to fix its binding
+00:01:09.646 : <WARNING> Unable to find alternative for device 'di8.'{90320DF0-0BCF-11EF-8002-444553540000}|{0B20045E-0000-0000-0000-504944564944}'', unable to fix its binding
+00:01:09.852 : [bullet] Starting physics server: Bullet
+00:01:09.949 : Trailer loading started...
+00:01:09.961 : Loaded trailers: 117
+00:01:09.981 : Loaded traffic trailers of type 'truck_semi': 30
+00:01:09.983 : Loaded traffic trailers of type 'truck_long': 0
+00:01:09.985 : Loaded traffic trailers of type 'train_cargo': 12
+00:01:09.987 : Loaded traffic trailers of type 'car': 4
+00:01:09.988 : Loaded traffic trailers of type 'bus': 0
+00:01:09.992 : Loaded traffic trailers of type 'truck': 39
+00:01:09.995 : Loaded traffic trailers of type 'tram': 60
+00:01:09.998 : Loaded traffic trailers of type 'train': 33
+00:01:10.000 : Loaded traffic trailers of type 'special': 11
+00:01:10.016 : Loaded traffic vehicles of type 'car': 90
+00:01:10.021 : Loaded traffic vehicles of type 'car_custom': 46
+00:01:10.029 : Loaded traffic vehicles of type 'truck': 40
+00:01:10.033 : Loaded traffic vehicles of type 'truck_light': 19
+00:01:10.037 : Loaded traffic vehicles of type 'truck_medium': 12
+00:01:10.038 : Loaded traffic vehicles of type 'truck_heavy': 5
+00:01:10.040 : Loaded traffic vehicles of type 'truck_long': 0
+00:01:10.043 : Loaded traffic vehicles of type 'truck_custom': 15
+00:01:10.048 : Loaded traffic vehicles of type 'bus': 24
+00:01:10.050 : Loaded traffic vehicles of type 'bus_custom': 4
+00:01:10.053 : Loaded traffic vehicles of type 'tram': 42
+00:01:10.055 : Loaded traffic vehicles of type 'train': 8
+00:01:10.057 : Loaded traffic vehicles of type 'train_wire': 15
+00:01:10.059 : Loaded traffic vehicles of type 'train_custom': 2
+00:01:10.067 : Loaded traffic vehicles of type 'police': 60
+00:01:10.071 : Loaded traffic vehicles of type 'fire': 34
+00:01:10.075 : Loaded traffic vehicles of type 'medical': 28
+00:01:10.076 : Loaded traffic vehicles of type 'escort_front': 1
+00:01:10.078 : Loaded traffic vehicles of type 'escort_back': 1
+00:01:10.080 : Loaded traffic vehicles of type 'special': 6
+00:01:10.090 : Loaded addon hookups: 203
+00:01:10.424 : Loading resource server data ....
+00:01:10.425 : Loading vegetation data ....
+00:01:10.864 : Loading traffic rule data ....
+00:01:10.865 : Loading traffic semaphore data ....
+00:01:10.870 : Loading gate model data ....
+00:01:10.899 : Loading road data ....
+00:01:10.909 : Loading terrain data ....
+00:01:11.099 : Loading railing data ....
+00:01:11.290 : Loading building data ....
+00:01:11.320 : Loading model data ....
+00:01:11.359 : Loading prefab data ....
+00:01:11.870 : Loading sign data ....
+00:01:11.920 : Loading sign template data ....
+00:01:12.380 : Loading city data ....
+00:01:12.395 : Loading country data ....
+00:01:12.422 : Linking cities with countries ....
+00:01:12.423 : Loading sound item reverbs ....
+00:01:12.423 : Loading sound item data ....
+00:01:12.425 : Loading sound ambient ....
+00:01:12.426 : Loading live stream data ....
+00:01:12.426 : Loading movers data ....
+00:01:15.435 : [TRUCKY] [Websocket Server] - Client Connected
+00:01:19.717 : Loading ferry data ....
+00:01:19.725 : <ERROR> Unable to find unit: ferry.ancona
+00:01:19.725 : <ERROR> Cannot find source ferry data: ancona
+00:01:19.725 : <ERROR> Unable to find unit: ferry.bari
+00:01:19.725 : <ERROR> Cannot find source ferry data: bari
+00:01:19.726 : Loading hinges data ....
+00:01:19.767 : Loading trigger action data ....
+00:01:19.768 : Loading cutscene data ....
+00:01:19.772 : Loading routes data ....
+00:01:19.774 : Loading overrides ....
+00:01:19.776 : Loading cargo data ....
+00:01:19.819 : Loading company cargo data ....
+00:01:20.320 : Loading unlock data ....
+00:01:20.819 : Loading data contexts  ....
+00:01:21.012 : Map '/map/europe.mbd' loading started ....
+00:01:21.208 : <WARNING> Unable to find 'city.winsen' for 'City' 0x4CEAF944D5330001
+00:01:21.244 : <WARNING> Unable to find 'city.koper' for 'City' 0x4A12BCCC0FC614B5
+00:01:21.262 : <WARNING> Unable to find 'city.ljubljana' for 'City' 0x4A12BCCC21463966
+00:01:21.262 : <WARNING> Unable to find 'city.ljubljana' for 'City' 0x4A12BCCCC64639DA
+00:01:21.263 : <WARNING> Unable to find 'city.ljubljana' for 'City' 0x4A12BCD403461E05
+00:01:21.267 : <WARNING> Unable to find 'city.rijeka' for 'City' 0x4A12BCCCD546125F
+00:01:21.268 : <WARNING> Unable to find 'city.rijeka' for 'City' 0x4CDF99EC1967043B
+00:01:21.279 : <WARNING> Unable to find 'city.maribor' for 'City' 0x4A12BCCCA1C61572
+00:01:21.311 : <WARNING> Unable to find 'city.osijek' for 'City' 0x4A12BCCCBC06084B
+00:01:21.311 : <WARNING> Unable to find 'city.osijek' for 'City' 0x4A12BCCCD4C60E8E
+00:01:21.314 : <WARNING> Unable to find 'city.novi_sad' for 'City' 0x4A12BCD0EEC64763
+00:01:21.319 : <WARNING> Unable to find 'city.resita' for 'City' 0x2C74B6FCBD160001
+00:01:21.320 : <WARNING> Unable to find 'city.beograd' for 'City' 0x4A12BCCCC0C60CC3
+00:01:21.320 : <WARNING> Unable to find 'city.beograd' for 'City' 0x4A12BCCCCA060767
+00:01:21.320 : <WARNING> Unable to find 'city.beograd' for 'City' 0x4A12BCD8DA86A533
+00:01:21.323 : <WARNING> Unable to find 'city.kaliningrad' for 'City' 0x2738E91C4BC10001
+00:01:21.325 : <WARNING> Unable to find 'city.kragujevac' for 'City' 0x4A12BCCC80460142
+00:01:21.325 : <WARNING> Unable to find 'city.nis' for 'City' 0x4A12BCCCA7C61334
+00:01:21.325 : <WARNING> Unable to find 'city.nis' for 'City' 0x4A12BCCCBC06158E
+00:01:21.329 : <WARNING> Unable to find 'city.nis' for 'City' 0x4A12BCCC9D0602E4
+00:01:21.330 : <WARNING> Unable to find 'city.nis' for 'City' 0x4A12BCD4F9C64319
+00:01:21.332 : <WARNING> Unable to find 'city.skopje' for 'City' 0x4A12BCCC06C6131C
+00:01:21.341 : <WARNING> Unable to find 'city.pskov' for 'City' 0x26FE9C9843490000
+00:01:21.342 : <WARNING> Unable to find 'city.pskov' for 'City' 0x219D98B4ABC70000
+00:01:21.342 : <WARNING> Unable to find 'city.pskov' for 'City' 0x26DEE88CBE090001
+00:01:21.342 : <WARNING> Unable to find 'city.pskov' for 'City' 0x26DEE978F8090000
+00:01:21.345 : <WARNING> Unable to find 'city.luga' for 'City' 0x219D990494070000
+00:01:21.345 : <WARNING> Unable to find 'city.luga' for 'City' 0x267F4B080C410001
+00:01:21.345 : <WARNING> Unable to find 'city.v_novgorod' for 'City' 0x348D1F9C950A0001
+00:01:21.347 : <WARNING> Unable to find 'city.petersburg' for 'City' 0x29676FF8268D03D7
+00:01:21.349 : <WARNING> Unable to find 'city.petersburg' for 'City' 0x26BA267CFB860000
+00:01:21.349 : <WARNING> Unable to find 'city.petersburg' for 'City' 0x26BA28B429060000
+00:01:21.349 : <WARNING> Unable to find 'city.petersburg' for 'City' 0x26BA2AC09DC60000
+00:01:21.349 : <WARNING> Unable to find 'city.petersburg' for 'City' 0x26BA2B84DF460000
+00:01:21.351 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x348D21949D0A0001
+00:01:21.351 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x3D3D6AEC96CA0000
+00:01:21.351 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x3D3D6B54A64A0000
+00:01:21.351 : <WARNING> Unable to find 'city.kirishi' for 'City' 0x3DE08B24E4160000
+00:01:21.352 : <WARNING> Unable to find 'city.kirishi' for 'City' 0x420FBBA887D60AC6
+00:01:21.362 : <WARNING> Unable to find 'city.suzzara' for 'City' 0x7A0AF909BEB0000
+00:01:21.407 : <WARNING> Unable to find 'city.parma' for 'City' 0x7794BF639BB0001
+00:01:21.409 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBD9C7A870000
+00:01:21.436 : <WARNING> Unable to find 'city.genova' for 'City' 0x76E9D6BFB9B0001
+00:01:21.441 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FADE0DFC70000
+00:01:21.441 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB09CD0470000
+00:01:21.441 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB21CE5070000
+00:01:21.441 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBC04BE870000
+00:01:21.441 : <WARNING> Unable to find 'city.bonifacio' for 'City' 0x2F99EB34DD070001
+00:01:21.450 : <WARNING> Unable to find 'city.werlte' for 'City' 0x456B2570E7D102BC
+00:01:21.470 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FACBCDD070000
+00:01:21.816 : <ERROR> Missing data for ferry item! (ferry.portotorres, uid: 0x2FEEFBFCC9C70001)
+00:01:21.832 : Map base sectors successfully loaded.
+00:01:21.832 : Map loaded
+00:01:21.995 : Loading save '/home/profiles/627265616B66617374/save/autosave/game.sii'
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.7e20' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <WARNING> [unit] The pointer to 'cargo.word_cargo_9' looks like dangling pointer.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.87e0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <WARNING> [unit] The pointer to 'cargo.word_cargo_2' looks like dangling pointer.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.6d10' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.6830' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.9340' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.9a90' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.aad0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.c4d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.9820' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.b490' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.9dd0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.bd80' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.b700' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.b7d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.bb10' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.d1d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.eb00' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.01d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.2730' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2f68.0510' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.6d60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.6200' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.5770' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.051 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.50f0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.4b40' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.9ef0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.b680' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.c930' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.a980' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe8.07c0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe8.0960' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.ffa0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.1400' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.3890' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.3fe0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.22a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.0d80' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.3550' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.1f60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.3ca0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fe7.2ac0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.2490' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.1860' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.2ff0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.3260' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.3330' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.34d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.35a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.4e00' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.6180' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.4440' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.5b00' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.6590' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.5960' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.a760' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.8a20' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.7ab0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.76a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.7770' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.9e70' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.a4f0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.8950' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.8d60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.b050' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.b390' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.bd50' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.0f60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2fea.f150' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.09b0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.11d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.1e00' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.1ed0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.2550' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.052 : <ERROR> [unit] The unit '_nameless.1e3.2feb.1ac0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.38d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.2ca0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.40f0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.3180' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.5fd0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.45d0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.7420' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.63e0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.4ec0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.6a60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.4f90' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.53a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.9d90' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.a000' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.a270' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.9230' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.b860' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.b5f0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.d190' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.b790' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.b1e0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.0b40' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2feb.f550' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.4110' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.1870' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.24a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.3ea0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.6400' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.5ff0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.6cf0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.ac50' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.c3e0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.d5c0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.d900' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.b610' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.c720' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.ce70' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.ba20' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.f090' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.f300' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.e600' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fec.efc0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fed.0b60' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fed.42a0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fed.3740' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.053 : <ERROR> [unit] The unit '_nameless.1e3.2fed.3190' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.3670' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.1e10' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.5f10' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.7430' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.52e0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.8950' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_2') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.8a20' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.8bc0' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.054 : <ERROR> [unit] The unit '_nameless.1e3.2fed.7b80' of type 'job_offer_data' has dangling pointer (to 'cargo.word_cargo_9') in the attribute named 'cargo'.
+00:01:22.149 : Route data generation started.
+00:01:22.335 : Route data generation finished.
+00:01:22.336 : Economy reset - at least one referenced object is missing
+00:01:23.736 : Sector force started.
+00:01:23.966 : Sector force finished.
+00:01:26.128 : [actor] Initialized at [1657.3;47.4;7869.4]
+00:01:26.149 : Economy reset - company mismatch
+00:01:26.225 : [actor] Initialized at [1657.3;47.4;7869.4]
+00:01:26.318 : [actor] Initialized at [1657.3;47.4;7869.4]
+00:01:26.336 : Removing unoccupied 'garage.truckersmp' because its garage items were not found.
+00:01:26.455 : Road network navigation caching started.
+00:01:26.563 : Cached navigation does not match the current state, ignoring
+00:01:28.000 : Generate navigation data takes 1428 ms.
+00:01:29.163 : Garage update started.
+00:01:30.918 : <ERROR> Garage prefab not found! (rijeka)
+00:01:30.997 : Garage update finished.
+00:01:31.380 : [actor] Initialized at [1657.3;47.4;7869.4]
+00:01:32.650 : Enforcing 'floor_reflection: false' in '/model/ui/garage/desktop_garage.pmd' scene - there are no parts to be customized for reflection.
+00:01:32.775 : [TRUCKY] Sending Generic Event: truck_changed
+00:01:32.775 : [TRUCKY] Trailers reset
+00:01:32.775 : [TRUCKY] Sending Generic Event: trailers_changed
+00:01:35.144 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:00.266 : Sector force started.
+00:03:00.420 : Sector force finished.
+00:03:01.581 : [actor] Teleported from [1657.3;47.4;7869.4] to [-36823.5;74.1;-16322.0]
+00:03:04.575 : Aliased joystick missing
+00:03:04.987 : Missing device 'xinput.xinput_gamepad_1' with display name '@@xinput_gamepad@@ 1'
+00:03:04.987 : Missing device 'di8.'{90320DF0-0BCF-11EF-8002-444553540000}|{0B20045E-0000-0000-0000-504944564944}'' with display name 'Bluetooth LE XINPUT compatible input device'
+00:03:16.106 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:16.598 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:19.150 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:19.767 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:21.048 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:21.305 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:22.417 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:23.843 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:26.582 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:27.815 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:29.059 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:30.008 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:30.415 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:30.986 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:31.514 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:32.031 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:32.448 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:34.848 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:35.281 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:36.319 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:37.558 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:53.080 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:53.674 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:54.213 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:54.837 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:55.358 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:55.974 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:56.668 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:57.101 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:57.779 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:58.712 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:59.445 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:03:59.957 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:00.692 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:01.210 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:01.732 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:03.211 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:06.399 : <ERROR> Failed to find service prefab uid:0x4A12BCCC07060C50
+00:04:12.206 : quit
+00:04:12.210 : Creating save-game file (/home/profiles/627265616B66617374/save/autosave/game.sii) ...
+00:04:12.393 : [sound] Sound library - shutdown.
+00:04:12.393 : [sound] Sound system - shutdown.
+00:04:12.721 : [sound] FMOD libraries released.
+00:04:12.754 : [net]  LOG INFO: Stopped
+00:04:12.757 : [hashfs] dlc_winter.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_wielton.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_volvo_tuning_pack.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_volvo_construction.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_vikings.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_valentine.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_trailers.scs: Unmounted.
+00:04:12.757 : [hashfs] dlc_toys.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_tirsan.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_super_stripes.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_streetart.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_space.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_rims.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_renault_t_tuning.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_renault_etech_t.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_raven.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_pirates.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_pink_ribbon.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_pcg.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_oversize.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_north.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_nature.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:04:12.758 : [hashfs] dlc_michelin.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_metallics.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_man_tgx_2020.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_lunar_new_year.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_lines.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_krone.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_jcb.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_hs_schoch.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_halloween.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_goodyear.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_ukr.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:04:12.759 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:04:12.760 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_bg.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_feldbinder.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_east.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_dragon.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_daf_xd.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_daf_2021.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_christmas.scs: Unmounted.
+00:04:12.761 : [hashfs] dlc_actros_tuning.scs: Unmounted.
+00:04:12.762 : [TRUCKY] Unloaded
+00:04:12.762 : unloaded 'TruckyTelemetry'
+00:04:12.852 : unloaded 'telemetry'
+00:04:12.857 : [dx11] Backbuffer released
+00:04:12.877 : [nvapi] NVAPI unloaded
+00:04:12.887 : [hashfs] base_cfg.scs: Unmounted.
+00:04:12.887 : [hashfs] locale.scs: Unmounted.
+00:04:12.887 : [hashfs] core.scs: Unmounted.
+00:04:12.888 : [hashfs] def.scs: Unmounted.
+00:04:12.888 : [hashfs] base_share.scs: Unmounted.
+00:04:12.888 : [hashfs] base_vehicle.scs: Unmounted.
+00:04:12.888 : [hashfs] base_map.scs: Unmounted.
+00:04:12.888 : [hashfs] base.scs: Unmounted.
+00:04:12.888 : [hashfs] effect.scs: Unmounted.
+00:04:13.342 : [sys] Process manager shutdown.

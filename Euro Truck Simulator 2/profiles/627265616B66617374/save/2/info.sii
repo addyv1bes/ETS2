@@ -1,0 +1,29 @@
+SiiNunit
+{
+save_container : _nameless.228.8fc7.b3d0 {
+ name: "save edit"
+ time: 9492
+ file_time: 1717902797
+ version: 79
+ info_version: 1
+ dependencies: 11
+ dependencies[0]: "dlc|eut2_daf_21|DLC - DAF 2021"
+ dependencies[1]: "dlc|eut2_daf_xd|DLC - DAF XD"
+ dependencies[2]: "dlc|eut2_east|DLC - Going East!"
+ dependencies[3]: "rdlc|eut2_lines|DLC - Modern Lines Paint Jobs Pack"
+ dependencies[4]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
+ dependencies[5]: "dlc|eut2_north|DLC - Scandinavia"
+ dependencies[6]: "rdlc|eut2_retecht|DLC - Renault Trucks E-Tech T"
+ dependencies[7]: "rdlc|eut2_rims|DLC - Wheels Tuning Pack"
+ dependencies[8]: "rdlc|eut2_rocket_league|DLC - Rocket League"
+ dependencies[9]: "rdlc|eut2_toys|DLC - Cabin Accessories"
+ dependencies[10]: "rdlc|eut2_trailers|DLC - High Power Cargo Pack"
+ info_players_experience: 754478
+ info_unlocked_recruitments: 9
+ info_unlocked_dealers: 6
+ info_visited_cities: 23
+ info_money_account: 8408270
+ info_explored_ratio: &3dc31582
+}
+
+}

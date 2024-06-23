@@ -1,0 +1,20 @@
+SiiNunit
+{
+global_input_config : _nameless.152.40c2.a2c0 {
+ version: 1
+ ui_whitelisted: 0
+ ui_blacklisted: 1
+ ui_blacklisted[0]: "di8.'{90320DF0-0BCF-11EF-8002-444553540000}|{0B20045E-0000-0000-0000-504944564944}'"
+ display_names: 9
+ display_names[0]: "`sys.keyboard`|@@keyboard@@"
+ display_names[1]: "`sys.mouse`|@@i_mouse@@"
+ display_names[2]: "`di8.keyboard`|@@keyboard@@"
+ display_names[3]: "`di8.mouse`|@@i_mouse@@"
+ display_names[4]: "`dialogs.keyboard`|@@keyboard@@"
+ display_names[5]: "`dialogs.mouse`|@@i_mouse@@"
+ display_names[6]: "`fusion.mouse`|@@i_mouse@@"
+ display_names[7]: "`di8.'{90320DF0-0BCF-11EF-8002-444553540000}|{0B20045E-0000-0000-0000-504944564944}'`|Bluetooth LE XINPUT compatible input device"
+ display_names[8]: "`xinput.xinput_gamepad_1`|@@xinput_gamepad@@ 1"
+}
+
+}
