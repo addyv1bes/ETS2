@@ -1,3 +1,3 @@
-# EURO TRUCK SIMULATOR GITHUB
+# EURO TRUCK SIMULATOR | CUSTOM PROFILE SAVE FILES
 
-This github page is used to store files of ETS2. This is not used in any bad way.
+Thank you for being interested in this Github respiratory. This respiratory is used to share my custom save file, for others to use. Feel free to use this to your liking, and you can always contribute to this by opening up a pull request.
